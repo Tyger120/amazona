@@ -1,0 +1,49 @@
+ _________________________________________________
+| 						  |
+|    CONTACT ME NOW : https://t.me/ro0tM8n        |
+|                                                 |
+| Official Channel : https://t.me/ro0tM8nchannel  |
+|_________________________________________________|
+
+
+💻 — Features :
+
+➢Get full info ( Login info )-( Email Access )-( Personal info )-(Address info)-( Card info )-( Bank info ) & ( success page ) 
+
+➢Responsive (Mobile and Pc Supported) 
+
+➢Random string (Source Code changes every refresh) ➢Full functional
+
+➢TELEGRAM & EMAIL NOTIFICATION 
+
+
+
+-Instructions for setting up 
+
+
+--------------- Uploading scampage SECTION ------------------
+
+1- Upload the scampage on host 
+2- Add your Email into Email.php ( to get logs on mail )
+3- Add your Telegram info in telegram.php ( to get logs on telegram )
+
+
+Save the changes to the file.
+
+
+
+Custom Work ?
+
+Do you want to create a scampage ( Banks , Crypto wallet , Fake mint ) ?
+
+Prices are approximated, if you are interested contact me and I will create a budget depending on your needs
+
+
+
+
+ _________________________________________________
+| 						  |
+|    CONTACT ME NOW : https://t.me/ro0tM8n        |
+|                                                 |
+| Official Channel : https://t.me/ro0tM8nchannel  |
+|_________________________________________________|
